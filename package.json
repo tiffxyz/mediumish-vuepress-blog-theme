@@ -1,7 +1,7 @@
 {
   "name": "vuepress-theme-mediumish",
   "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
+  "description": "Shortest year with the longest days",
   "keywords": [
     "vue",
     "vuepress",
@@ -15,7 +15,7 @@
     "url": "wowthemesnet/mediumish-vuepress-blog-theme"
   },
   "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "author": "Tiffanie",
   "main": "index.js",
   "files": [
     "index.js",
