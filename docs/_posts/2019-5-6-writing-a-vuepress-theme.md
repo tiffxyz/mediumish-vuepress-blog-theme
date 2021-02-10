@@ -1,13 +1,13 @@
 ---
-title: Writing a vuepress theme
+title: Write something else
 date: 2019-5-6
 tags:
 - theme
 - blog
 - vuepress
-author: John Doe
-featuredimg: https://images.unsplash.com/photo-1573247318220-c2683ee87351?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
-summary: Mediumish is the best VuePress theme Medium styled.
+author: Tiffanie
+featuredimg: "/v1612409881/samples/food/spices.jpg"
+summary: Not perfect but I'm working at it.
 
 ---
 To write a theme, create a `.vuepress/theme` directory in your docs root, and then create a `Layout.vue` file:
